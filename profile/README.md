@@ -1,15 +1,12 @@
 # Datten™
 
-Инженерные данные, рабочие процессы и искусственный интеллект в одной продуктовой экосистеме.
+Software for engineering teams. Datten Platform brings data and workflows together; Datten Intelligence adds AI to everyday work.
 
-| Продукт | Для чего |
+| Product | What it helps you do |
 | --- | --- |
-| **Datten Platform** | Объединять проектные данные, работать с инженерными моделями, проверять качество и организовывать совместную работу. |
-| **Datten Intelligence** | Решать инженерные задачи с ИИ и работать с контекстом проекта. |
+| **Datten Platform** | Organize project data, work with engineering models, check quality, and collaborate. |
+| **Datten Intelligence** | Work through engineering tasks with AI and relevant project context. |
 
-[Сайт](https://datten.ai) · [Возможности и тарифы](https://datten.ai/ru/pricing) · [Связаться](mailto:info@datten.ai)
+[Website](https://datten.ai/en) · [Products and pricing](https://datten.ai/en/pricing) · [Contact](mailto:info@datten.ai)
 
-## Безопасность
-
-Для ответственного сообщения об уязвимости: **security@datten.ai**.
-Не публикуйте пароли, ключи доступа, персональные данные или клиентские файлы.
+For private security reports, contact **security@datten.ai**. Please keep passwords, access keys, personal data, and customer files out of public reports.
