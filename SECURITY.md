@@ -1,9 +1,7 @@
-# Безопасность Datten
+# Datten security
 
-Сообщения об уязвимостях направляйте на **security@datten.ai**.
+Report security vulnerabilities privately to **security@datten.ai**.
 
-Укажите затронутую возможность, безопасные шаги воспроизведения, возможные
-последствия и контакт для ответа. Не публикуйте пароли, токены, персональные
-данные или клиентские файлы в Issues, PR и Discussions.
+Include the affected feature, safe reproduction steps, potential impact, and a contact for follow-up. Do not post passwords, tokens, personal data, or customer files in Issues, pull requests, or Discussions.
 
-Сайт и официальные сведения о продуктах: [datten.ai](https://datten.ai).
+For official product information, visit [datten.ai](https://datten.ai/en).
