@@ -1,4 +1,4 @@
-# Datten
+# Datten Limited Liability Company
 
 Datten is a research and development company focused on engineering software and artificial intelligence.
 
