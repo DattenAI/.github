@@ -1,12 +1,9 @@
-# Datten™
+# Datten
 
-Software for engineering teams. Datten Platform brings data and workflows together; Datten Intelligence adds AI to everyday work.
+Datten is a research and development company focused on engineering software and artificial intelligence.
 
-| Product | What it helps you do |
-| --- | --- |
-| **Datten Platform** | Organize project data, work with engineering models, check quality, and collaborate. |
-| **Datten Intelligence** | Work through engineering tasks with AI and relevant project context. |
+We build **Datten Platform** to bring project data and workflows into one workspace, and **Datten Intelligence** to help people work with that information through AI.
 
-[Website](https://datten.ai/en) · [Products and pricing](https://datten.ai/en/pricing) · [Contact](mailto:info@datten.ai)
+Our goal is to keep engineering knowledge connected across tools, teams, and project stages.
 
-For private security reports, contact **security@datten.ai**. Please keep passwords, access keys, personal data, and customer files out of public reports.
+[Website](https://datten.ai/en) · [Products](https://datten.ai/en/pricing) · [Contact](mailto:info@datten.ai) · [Security](https://github.com/DattenAI/.github/security/policy)
